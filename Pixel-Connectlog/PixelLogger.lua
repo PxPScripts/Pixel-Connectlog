@@ -19,7 +19,7 @@ local connect = {
         }
     }
 
-PerformHttpRequest(logs, function(err, text, headers) end, 'POST', json.encode({username = "A1pha Project", embeds = connect}), { ['Content-Type'] = 'application/json' })
+PerformHttpRequest(logs, function(err, text, headers) end, 'POST', json.encode({username = "Pixel Project", embeds = connect}), { ['Content-Type'] = 'application/json' })
 end)
 
 AddEventHandler('playerDropped', function(reason)
