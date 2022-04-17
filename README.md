@@ -1,6 +1,6 @@
 # Pixel-Connectlog
 
-Dette er et omkodet script som ikke er lavet fra bunden der er kun pillet ved
+Dette er et --omkodet--(pillet ved) script som ikke er lavet fra bunden der er kun pillet ved
 
 ### Discord : https://discord.gg/fJekXq5jUP
 
